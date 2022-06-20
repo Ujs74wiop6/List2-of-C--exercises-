@@ -1,7 +1,7 @@
 # List2-of-C--exercises-
 List of 15 basic C++ logic exercises
 
-1) Escreva um programa em C++  que exiba a seguinte mensagem: “Sou calouro de BSI!!!!”
+1) Escreva um programa em C++  que exiba a seguinte mensagem: “Sou calouro de BSI!!!!”.
 	
 2) Escreva um programa em C++ que exiba as quatro mensagens:
 Meu nome é: <seu nome>.
